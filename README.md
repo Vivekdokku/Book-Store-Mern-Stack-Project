@@ -1,1 +1,2 @@
-# Book-Store-Website-using-Mern-Stack
+# Book Store MERN stack project
+
